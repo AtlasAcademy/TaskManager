@@ -47,4 +47,4 @@ Access Level (Pubic Viewer - Member - Administrator)<br>
 
 -------------------------------------------------------
 ##Software Requirment Specification##
-https://github.com/AtlasAcademy/Task-Manager/wiki
+https://github.com/AtlasProject/Task-Manager/wiki
